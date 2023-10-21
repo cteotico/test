@@ -1,0 +1,1 @@
+# Kinsta_wp_static
